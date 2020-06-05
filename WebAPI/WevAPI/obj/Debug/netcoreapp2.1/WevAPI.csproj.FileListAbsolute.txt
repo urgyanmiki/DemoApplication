@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\WevAPI\WevAPI\bin\Debug\netcoreapp2.1\WevAPI.deps.json
+C:\Users\user\source\repos\WevAPI\WevAPI\bin\Debug\netcoreapp2.1\WevAPI.runtimeconfig.json
+C:\Users\user\source\repos\WevAPI\WevAPI\bin\Debug\netcoreapp2.1\WevAPI.runtimeconfig.dev.json
+C:\Users\user\source\repos\WevAPI\WevAPI\bin\Debug\netcoreapp2.1\WevAPI.dll
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.AssemblyInfo.cs
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\WevAPI\WevAPI\bin\Debug\netcoreapp2.1\WevAPI.pdb
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.dll
+C:\Users\user\source\repos\WevAPI\WevAPI\obj\Debug\netcoreapp2.1\WevAPI.pdb
